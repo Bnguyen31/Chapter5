@@ -1,0 +1,4 @@
+The sum of the numbers is: 500.5
+The lowest number is: 10.4
+The highest number is: 90.2
+The average of the numbers is: 50.05
